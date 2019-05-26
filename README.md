@@ -1,7 +1,7 @@
-# kuboeval
+# Kubo
 Evalucacion
 
-# como ejecutar la evaluacion
+# Como ejecutar la evaluacion
 
 1.- Situarse en el directorio /src
 2.- Agregar persona:
